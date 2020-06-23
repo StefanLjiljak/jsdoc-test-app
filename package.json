@@ -1,0 +1,15 @@
+{
+  "name": "jsdoc-test-app",
+  "version": "1.0.0",
+  "description": "- svakog dana u svakom pogledu sve vise napredujem :)",
+  "main": "index.js",
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "keywords": [],
+  "author": "Stefan Ljiljak",
+  "license": "MIT",
+  "devDependencies": {
+    "jsdoc": "^3.6.4"
+  }
+}
